@@ -18,3 +18,7 @@ pip install oauth2client
 ```bash
 python3 upload_video.py --file="example.mov" --title="Summer vacation in California" --description="Had fun surfing in Santa Cruz" --keywords="surfing,Santa Cruz" --category="22" --privacyStatus="private"
 ```
+
+# List of YouTube Categories (Numeric)
+
+https://techpostplus.com/youtube-video-categories-list-faqs-and-solutions/
