@@ -22,3 +22,7 @@ python3 upload_video.py --file="example.mov" --title="Summer vacation in Califor
 # List of YouTube Categories (Numeric)
 
 https://techpostplus.com/youtube-video-categories-list-faqs-and-solutions/
+
+# ❌ Private (Locked)
+
+https://stackoverflow.com/a/64695395
