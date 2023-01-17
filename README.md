@@ -25,4 +25,6 @@ https://techpostplus.com/youtube-video-categories-list-faqs-and-solutions/
 
 # ❌ Private (Locked)
 
-https://stackoverflow.com/a/64695395
+Issue: https://stackoverflow.com/a/64695395
+
+Audit Form: https://developers.google.com/youtube/v3/docs/videos/insert
